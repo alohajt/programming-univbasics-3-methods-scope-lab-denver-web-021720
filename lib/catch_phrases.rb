@@ -10,5 +10,10 @@ def toadstool
 end
 
 def link  
-  phase  =
+  phase  ="It's Dangerous To Go Alone! Take This."
+  puts phase
+end
+
+def any_phrase 
+  phrase = 
   
